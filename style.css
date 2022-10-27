@@ -1,0 +1,40 @@
+h2{
+    color:brown
+}
+body{
+    height: 600px;
+}
+.table td,
+.table th{
+ padding: 10px 20px;
+}
+
+tbody tr{
+    background:white
+}
+
+thead {
+    background-color: #009578;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table 
+{
+border: solid 1px;
+width: 100%;
+height: 200px;
+}
+
+
+td{ border: solid 1px;
+    margin: pxauto;
+}
+tr{
+    border: solid 1px;
+}
+button{
+   
+    margin-top: 10px;
+    margin-left:10px;
+}
